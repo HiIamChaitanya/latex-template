@@ -6,7 +6,3 @@ Standard template for generalized for use cases
 
 creative commons license 1.0 universal
 
-## Requirements
-
-- 
-
